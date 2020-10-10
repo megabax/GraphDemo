@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace GraphCore
 {
     /// <summary>
-    /// Граф
+    /// Узел графа
     /// </summary>
-    public class Graph
+    public class Node
     {
     }
 }
